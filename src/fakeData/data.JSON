@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "category": "Language Learning",
+        "name": "Spoken English",
+        "instructor": "Komol Chandra Das",
+        "enrolled": 36,
+        "img": "https://i.ibb.co/z7HcQH0/Spoken-english.jpg",
+        "price": 50
+    },
+    {
+        "id": 2,
+        "category": "Language Learning",
+        "name": "IELTS Course by Shohash",
+        "instructor": "Rakibul Basher Shohash",
+        "enrolled": 20,
+        "img": "https://i.ibb.co/Dzv0ncF/ielts-course.png",
+        "price": 80
+    },
+    {
+        "id": 3,
+        "category": "Language Learning",
+        "name": "English Writting for Students",
+        "instructor": "Najmus Sakib",
+        "enrolled": 50,
+        "img": "https://i.ibb.co/6XL0Zj1/Writing-english.jpg",
+        "price": 40
+    },
+    {
+        "id": 4,
+        "category": "Kids' Course",
+        "name": "Programming for Kids",
+        "instructor": "Dinar Saiful",
+        "enrolled": 40,
+        "img": "https://i.ibb.co/gz5Zb4r/Programming-languages-for-kids-banner-1.png",
+        "price": 55
+    },
+    {
+        "id": 5,
+        "category": "Kids' Course",
+        "name": "Drawing for Kids",
+        "instructor": "Mehedi Hasan",
+        "enrolled": 30,
+        "img": "https://i.ibb.co/3Rkrzbh/drawing-for-kids.jpg",
+        "price": 30
+    },
+    {
+        "id": 6,
+        "category": "Kids' Course",
+        "name": "Spoken English for Kids",
+        "instructor": "Najmus Sakib",
+        "enrolled": 60,
+        "img": "https://i.ibb.co/1TgnFH8/spoken-eng-kids.png",
+        "price": 60
+    },
+    {
+        "id": 7,
+        "category": "Skill Devlopment",
+        "name": "Facebook Marketing",
+        "instructor": "Rakibul Basher",
+        "enrolled": 40,
+        "img": "https://i.ibb.co/BTkFFMk/facebook-marketing.jpg",
+        "price": 55
+    },
+    {
+        "id": 8,
+        "category": "Skill Devlopment",
+        "name": "Data Entry",
+        "instructor": "Shakil Ahmed",
+        "enrolled": 30,
+        "img": "https://i.ibb.co/C90m7v9/data-entry.jpg",
+        "price": 30
+    },
+    {
+        "id": 9,
+        "category": "Skill Devlopment",
+        "name": "Microsoft Excel",
+        "instructor": "Najmus Sakib",
+        "enrolled": 60,
+        "img": "https://i.ibb.co/6JjhQW8/excel.jpg",
+        "price": 60
+    },
+    {
+        "id": 10,
+        "category": "Programming Course",
+        "name": "JavaScript",
+        "instructor": "Komol Chandra Das",
+        "enrolled": 36,
+        "img": "https://i.ibb.co/pZZ8Rs3/js.jpg",
+        "price": 50
+    },
+    {
+        "id": 11,
+        "category": "Programming Course",
+        "name": "Python",
+        "instructor": "Rakibul Basher Shohash",
+        "enrolled": 20,
+        "img": "https://i.ibb.co/pv26VCc/python.jpg",
+        "price": 80
+    },
+    {
+        "id": 12,
+        "category": "Programming Course",
+        "name": "C++",
+        "instructor": "Najmus Sakib",
+        "enrolled": 50,
+        "img": "https://i.ibb.co/3zfVWmW/c-plus-plus.png",
+        "price": 40
+    }
+]

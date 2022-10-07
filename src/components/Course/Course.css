@@ -1,0 +1,8 @@
+.course-home{
+    display:flex;
+}
+.course-container{
+    width: 70%;
+    border-right: 1px solid gray;
+    margin-left:30px;
+}
